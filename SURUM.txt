@@ -1,0 +1,30 @@
+﻿# SÃ¼rÃ¼m Bilgisi
+
+  Paket      : Empire Earth II - TÃ¼rkÃ§e Yama
+  SÃ¼rÃ¼m      : 1.0
+  Tarih      : 11.10.2026
+  Hedef oyun : Empire Earth II Gold Edition (Steam, uygulama kimliÄŸi 254780)
+  Kapsam     : Empire Earth II + The Art of Supremacy (EE2X)
+
+## Ã‡eviri kapsamÄ±
+
+  Toplam metin          : 13933
+  TÃ¼rkÃ§eye Ã§evrilmiÅŸ    : 9017  (%64.7%)
+  Ä°ngilizce kalan       : 4916
+
+  Kapsanan alanlar:
+    - Ana menÃ¼, ayarlar, Ã§ok oyunculu ekranlar
+    - Oyun iÃ§i arayÃ¼z, uyarÄ±lar, ipuÃ§larÄ±, birim bilgi panelleri
+    - TÃ¼m birim, bina, harika, teknoloji ve Ã§aÄŸ adlarÄ±
+    - BÃ¶lge gÃ¼Ã§leri, taÃ§ gÃ¼Ã§leri, uygarlÄ±k Ã¶zellikleri
+    - KÄ±sayol yapÄ±landÄ±rma ekranÄ± (tamamÄ±)
+    - Harita editÃ¶rÃ¼ arayÃ¼zÃ¼ (tamamÄ±)
+    - Ansiklopedi (EE2 ve EE2X, tamamÄ±)
+    - Kampanya senaryolarÄ±nÄ±n tarihÃ§e ve gÃ¶rev metinleri
+
+## Dosya bÃ¼tÃ¼nlÃ¼ÄŸÃ¼ (SHA-256)
+
+  SHA256SUMS.txt dosyasÄ±ndaki listede her dosyanÄ±n Ã¶zeti yer alÄ±r.
+  DoÄŸrulamak iÃ§in:
+
+    certutil -hashfile <dosya> SHA256

@@ -1,0 +1,5 @@
+﻿# kurulum sirasinda uretilen rapor
+CEVIRILMEMIS.txt
+# yedekler (yanlislikla eklenirse)
+*.ee2tr.bak
+*.bak
